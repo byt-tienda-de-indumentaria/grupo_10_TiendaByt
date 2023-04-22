@@ -2,18 +2,19 @@
 
 INTEGRANTES GRUPO DE TRABAJO Nº10:
 
--Sofia Suarez -> sofiasuarez75@gmail.com
--Ivan Almada -> ivan.almada90@gmail.com
--Damian Nicolas Figueroa -> conichan139@gmail.com
--Camilo Silva -> camilosilva.0301@gmail.com
+- Sofia Suarez -> sofiasuarez75@gmail.com
+- Ivan Almada -> ivan.almada90@gmail.com
+- Damian Nicolas Figueroa -> conichan139@gmail.com
+- Camilo Silva -> camilosilva.0301@gmail.com
 
 Sitios referentes
 
-https://www.cuestablanca.com/
-https://www.charostoreok.com/ 
-https://www.chavelastyle.com.ar/ 
-https://www.xlshop.com.ar/
-https://www.routejidos.com.ar/
+## https://www.cuestablanca.com/
+## https://www.charostoreok.com/ 
+## https://www.chavelastyle.com.ar/ 
+## https://www.xlshop.com.ar/
+## https://www.routejidos.com.ar/
+
 
 Seleccionamos estos sitios porque buscamos mostrar una estetica de similares caracterìsticas, por su funcionabilidad y órden de los elementos y porque se muestran intuitivas y de facil navegabilidad.
 
@@ -29,10 +30,10 @@ En resumen, nuestra tienda en línea de ropa femenina ofrece productos de alta c
 ## Wireframe:
 
 HOME 
-![](./wireframe/home.jpg)
+![](./Wireframe/Home.jpg)
 
 INDUMENTARIA
-![](./Wireframe/indumentaria.jpg)
+![](./Wireframe/Indumentaria.jpg)
 
 ACCESORIOS
 ![](./Wireframe/Accesorios.jpg)
