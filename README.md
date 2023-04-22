@@ -26,7 +26,7 @@ Sabemos que los cuerpos humanos no salen de moldes, por lo que no siempre encaja
 Estamos comprometidos en proporcionar un excelente servicio al cliente y asegurarnos de que todas las compras en nuestra tienda en línea sean satisfactorias para ellas/os. 
 En resumen, nuestra tienda en línea de ropa femenina ofrece productos de alta calidad y diseños actuales para mujeres que valoran la moda y la calidad de sus prendas. Nuestro objetivo es proporcionar una experiencia de compra en línea fácil, intuitiva y accesible, para que nuestras clientas encuentren las prendas perfectas para cada ocasión!
 
-Wireframe:
+## Wireframe:
 
 HOME 
 ![](./wireframe/home.jpg)
@@ -38,7 +38,7 @@ ACCESORIOS
 ![](./Wireframe/Accesorios.jpg)
 
 LOCALES
-![](./Wireframe/Locales.jpg)
+![](./Wireframe/Locales.png)
 
 CONTACTO
 ![](./Wireframe/Contacto.jpg)
