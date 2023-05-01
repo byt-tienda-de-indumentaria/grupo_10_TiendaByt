@@ -43,3 +43,8 @@ LOCALES
 
 CONTACTO
 ![](./Wireframe/Contacto.jpg)
+
+## Tablero de trabajo Trello
+
+Este es el tablero Trello [link] (https://trello.com/b/1LwuUUEY)
+
